@@ -12,7 +12,7 @@ int main(void)
 
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
-		if (alpha == 'q' && alpha == 'q')
+		if (alpha == 'q' && alpha == 'e')
 		{
 			continue;
 		}
