@@ -10,7 +10,7 @@ int main(void)
 {
 	int num;
 
-	for (num = 0; (num % 10) < 10; num++)
+	for (num = 0; (num % 100) < 10; num++)
 	{
 		printf("%d\n", num);
 	}
