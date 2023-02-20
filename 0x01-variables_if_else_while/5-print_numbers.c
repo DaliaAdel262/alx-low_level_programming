@@ -13,7 +13,10 @@ int main(void)
 	for (num = 0; (num % 100) < 10; num++)
 	{
 		printf("%d", num);
+
 	}
+
+	printf('\n');
 
 	return (0);
 }
