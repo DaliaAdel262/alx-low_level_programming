@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_traingle - prints a triangle of hashtags
+ * print_triangle - prints a triangle of hashtags
  * @size: the size of hashtag triangle
  * Return: empty
  */
